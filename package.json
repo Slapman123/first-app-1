@@ -1,0 +1,12 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Slapman123/first-app.git",
+  "author": "Aleksandar Mihajlovic <36760259+Slapman123@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
